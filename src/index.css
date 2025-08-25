@@ -182,6 +182,7 @@
     border: 1px solid hsl(var(--border));
   }
 
+  /* Project card styles - updated */
   .project-card {
     @apply relative overflow-hidden rounded-2xl transition-all duration-500 hover:scale-[1.02] cursor-pointer;
     background: hsl(var(--card));
